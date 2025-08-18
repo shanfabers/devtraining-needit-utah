@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8ff8e0bb5db122104f34969735a7add6" extends="sys_import_set_row" label="User" max_length="40" name="imp_user" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Gender" label="Gender" max_length="40" name="u_gender" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Last Name" label="Last Name" max_length="40" name="u_last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=USER_NAME" label="USER_NAME" max_length="40" name="u_user_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=EMAIL_ADDRESS" label="EMAIL_ADDRESS" max_length="40" name="u_email_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DESCRIPTION" label="DESCRIPTION" max_length="40" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=First Name" label="First Name" max_length="40" name="u_first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+    </element>
+</database>
